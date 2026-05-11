@@ -22,7 +22,7 @@ int main() {
 
 void menu() {
     printf("Menu de opções:\n");
-    printf("1. Somar dois números\n");
-    printf("2. Multiplicar dois números\n");
+    printf("1. Inserir aluno\n");
+    printf("2. Adicionar portátil\n");
     printf("3. Sair\n");
 }
