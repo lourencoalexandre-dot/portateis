@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include <stdio.h>
 
 // TODO: Implementar esta função
 // Deve retornar a + b
@@ -17,4 +18,11 @@ int main() {
     printf("Multiplicação de 4 * 7: %d\n", multiplica(4, 7));
     
     return 0;
+}
+
+void menu() {
+    printf("Menu de opções:\n");
+    printf("1. Somar dois números\n");
+    printf("2. Multiplicar dois números\n");
+    printf("3. Sair\n");
 }
